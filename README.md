@@ -39,6 +39,5 @@ Foco no ciclo completo de dados: desde a **ingestão, limpeza e modelação rela
 
 ### 📬 Contato
 
-* **GitHub:** [github.com/IM-Godoy](https://github.com/IM-Godoy)
 * * **LinkedIn:** https://www.linkedin.com/in/martelliigor/
 * **Email:** igorgosoy4@gmail.com
