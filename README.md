@@ -30,10 +30,10 @@ Foco no ciclo completo de dados: desde a **ingestão, limpeza e modelação rela
 ### 🎓 Formação Acadêmica & Módulos Relevantes
 
 * **Técnico Especialista em Gestão de Informação e Ciência dos Dados** — *IEFP Aveiro (Nível 5)*
-  * **Core Analítico:** Programação Avançada em Python, Análise Avançada de Dados, Modelos Analíticos.
-  * **Gestão e BI:** Modelação e Ingestão de Dados, SQL, Business Intelligence, Storytelling com Dados.
-  * **Segurança e Negócio:** Legislação, Privacidade e RGPD, Fundamentos de Cibersegurança, Estatística Aplicada.
-  * **Formação em Contexto de Trabalho (Estágio):** 602 horas práticas previstas.
+* **Core Analítico:** Programação Avançada em Python, Análise Avançada de Dados, Modelos Analíticos.
+* **Gestão e BI:** Modelação e Ingestão de Dados, SQL, Business Intelligence, Storytelling com Dados.
+* **Segurança e Negócio:** Legislação, Privacidade e RGPD, Fundamentos de Cibersegurança, Estatística Aplicada.
+* **Formação em Contexto de Trabalho (Estágio):** 602 horas práticas previstas.
 
 ---
 
@@ -41,4 +41,4 @@ Foco no ciclo completo de dados: desde a **ingestão, limpeza e modelação rela
 
 * **GitHub:** [github.com/IM-Godoy](https://github.com/IM-Godoy)
 * * **LinkedIn:** https://www.linkedin.com/in/martelliigor/
-* **Email:** *(igorgosoy4@gmail.com)*
+* **Email:** igorgosoy4@gmail.com
