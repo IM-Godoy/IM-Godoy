@@ -37,7 +37,7 @@ Foco no ciclo completo de dados: desde a **ingestão, limpeza e modelação rela
 
 ---
 
-### 📬 Contato
+### 📫 Contato
 
-* * **LinkedIn:** https://www.linkedin.com/in/martelliigor/
-* **Email:** igorgosoy4@gmail.com
+- **LinkedIn:** [linkedin.com/in/martelliigor](https://www.linkedin.com/in/martelliigor/)
+- **Email:** [igorgosoy4@gmail.com](mailto:igorgosoy4@gmail.com)
